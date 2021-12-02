@@ -1,0 +1,26 @@
+10G  |A4 Paper (50 sheets)                              |Paper/Book                    |Pop Bazic                     |5.85      |77
+10H  |A4 Paper (80 sheets)                              |Paper/Book                    |Pop Bazic                     |8.25      |72
+10I  |Binder Notebook B5                                |Paper/Book                    |Kokuyo                        |16.90     |44
+10M  |Canon KS-125T Black                               |Calculator                    |Canon                         |49.90     |62
+10N  |Canon LC-210HI Blue                               |Calculator                    |Canon                         |12.20     |27
+10O  |Casio Scientific FX991-EX Black                   |Calculator                    |Casio                         |120.90    |49
+10K  |Clipboard A5 Yellow                               |File                          |Delli                         |19.10     |13
+10B  |Faber-Castell Black Pen 0.5                       |Writing Instrument            |Faber-Castell                 |1.80      |82
+10A  |Faber-Castell Blue Pen 0.5                        |Writing Instrument            |Faber-Castell                 |1.80      |58
+10U  |Faber-Castell Eraser Black                        |Eraser/Ruler/Corrector        |Faber-Castell                 |1.50      |39
+10C  |Faber-Castell Red Pen 0.5                         |Writing Instrument            |Faber-Castell                 |1.80      |33
+10L  |Holes Button Folder Green                         |File                          |Pop Bazic                     |4.20      |21
+10E  |Muji Black Pen 0.38                               |Writing Instrument            |Muji                          |3.20      |108
+10D  |Muji Blue Pen 0.38                                |Writing Instrument            |Muji                          |3.20      |110
+10F  |Muji Red Pen 0.38                                 |Writing Instrument            |Muji                          |3.20      |105
+10V  |Plastic Straight Ruler 15cm                       |Eraser/Ruler/Corrector        |Dolphin                       |0.80      |29
+10W  |Plastic Straight Ruler 35cm                       |Eraser/Ruler/Corrector        |Dolphin                       |1.50      |29
+10X  |Plus Whiper Correction Tape 5MM Blue              |Eraser/Ruler/Corrector        |Plus Japan                    |12.50     |34
+10Y  |Plus Whiper Correction Tape 6MM Green             |Eraser/Ruler/Corrector        |Plus Japan                    |12.50     |31
+10Z  |Plus Whiper Correction Tape Refill 5MM White      |Eraser/Ruler/Corrector        |Plus Japan                    |39.80     |59
+10J  |Pop Urban Notebook A4 Plain                       |Paper/Book                    |Pop Urban                     |24.90     |42
+10T  |Soft Eraser White                                 |Eraser/Ruler/Corrector        |Muji                          |1.20      |45
+10R  |Stabilo Pastel Highlighter Cherry Blossom Pink    |Writing Instrument            |Stabilo                       |3.90      |91
+10P  |Stabilo Pastel Highlighter Cloudy Blue            |Writing Instrument            |Stabilo                       |3.90      |83
+10Q  |Stabilo Pastel Highlighter Dash Of Lime           |Writing Instrument            |Stabilo                       |3.90      |86
+10S  |Stabilo Pastel Highlighter Mellow Coral Red       |Writing Instrument            |Stabilo                       |3.90      |81
